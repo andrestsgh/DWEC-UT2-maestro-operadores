@@ -1,0 +1,15 @@
+{
+  "name": "dwec-ut2-maestro-operadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "andres <andrests@uoc.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
